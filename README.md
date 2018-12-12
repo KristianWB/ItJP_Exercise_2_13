@@ -7,7 +7,7 @@ Exercise 2.13
 12-12-2018
 WITT
 
-Name of projekt is: Hello world
+Name of projekt is: Financial Application compound Value
 
 No prerequestes other than an IDE (ie. Intellij)
 
